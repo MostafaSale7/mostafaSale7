@@ -84,14 +84,6 @@ Rather than chasing tools, I focus on **understanding systems deeply** and using
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MostafaSale7&show_icons=true&hide_border=true" />
-</p>
-
----
-
 ## 🌱 Currently Improving
 
 * System design & architecture
@@ -104,5 +96,6 @@ Rather than chasing tools, I focus on **understanding systems deeply** and using
 
 * 📍 Giza, Egypt
 * 💼 Open to backend & fintech opportunities
+* Mostafa.saleh_98@yahoo.com
 
 > *“Consistency beats motivation, and clarity beats complexity.”*
