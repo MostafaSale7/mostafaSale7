@@ -2,11 +2,6 @@
 
 <!--
 **MostafaSale7/mostafaSale7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<h1 align="center">Hi, I'm Mostafa Saleh 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+.NET+%26+C%23;Fintech+%26+Payments+Systems;Backend+%7C+Databases+%7C+Batch+Processing;iOS+Development+Experience;Building+Reliable+Production+Systems" />
 </p>
